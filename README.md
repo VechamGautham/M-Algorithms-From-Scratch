@@ -1,4 +1,4 @@
-# M-Algorithms-From-Scratch
+# ML-Algorithms-From-Scratch
 
 ## 📌 About
 
