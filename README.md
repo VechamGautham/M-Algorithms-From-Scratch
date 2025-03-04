@@ -7,7 +7,8 @@ This repository contains implementations of **Machine Learning algorithms from s
 Additionally, this folder includes implementations using standard ML libraries for **comparison and review**.
 
 ## 📂 Contents
-- **Linear Regression** - Implemented both from scratch and using Scikit-Learn.  
+- **Linear Regression** - Implemented both from scratch and using Scikit-Learn.
+- **Logistic Regression**- Implemented both from scratch and using Scikit-Learn  
 - **More ML algorithms coming soon…**  
 
 ## 📚 Libraries Used
